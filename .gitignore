@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# local env files
+.env*.local
+
+# Ignore node_modules folder
+/node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Next.js build output
+.next/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore IDE and editor-specific files (e.g., VSCode, JetBrains)
+.vscode/
+.idea/
+
+# Ignore package-lock.json (if you don't want to track it, though it's generally recommended to track it)
+# package-lock.json
+
+# Ignore npm debug log
+npm-debug.log
