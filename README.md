@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## To see this app live 
+
+Visit the Url:
+
+
+Grocery Website URl(https://grocery-website-ljy5.vercel.app
+) 
 
 ## Getting Started
 
