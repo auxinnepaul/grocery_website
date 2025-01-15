@@ -39,7 +39,7 @@ export default function AboutUs() {
                   Our Story{" "}
                 </span>
                 <br />
-                <span className="font-serif italic font-normal text-8xl">
+                <span className="font-serif italic font-normal text-4xl md:text-8xl">
                   of Fresh Beginnings
                 </span>
               </h1>
